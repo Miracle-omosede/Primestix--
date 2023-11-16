@@ -14,18 +14,18 @@ const Flipcard = () => {
                   src="/staffs/ceo.jpg"
                   width={500}
                   height={400}
-                  className="object-cover w-full h-full"
+                  className="object-cover w-full  h-full"
                 />
                 <div className="w-full flex items-center justify-center">
                   <button className="absolute bottom-10 py-2 shadow-xl capitalize font-semibold px-4 flex  flex-col w-auto rounded-[50px] items-center justify-center bg-white text-[#A18830]">
-                    <span>Nnadi Johnson</span>
+                    <span>Maxwell Okperi</span>
                     <span className="text-xs italic">
                       Chief Executive Officer
                     </span>
                   </button>
                 </div>
               </div>
-              <div className="absolute overflow-hidden  my-rotate-y-180 backface-hidden w-full h-full bg-gray-100">
+              <div className="absolute overflow-hidden   my-rotate-y-180 backface-hidden w-full h-full bg-gray-100">
                 <div className="text-center flex flex-col items-center justify-center h-full">
                   <Image
                     src="/staffs/ceo.jpg"
@@ -35,7 +35,7 @@ const Flipcard = () => {
                   />
                   <div className="absolute -bottom-10 delay-500 duration-1000 group-hover:bottom-10 scale-0 group-hover:scale-125 text-white">
                     <button className=" py-2 shadow-xl capitalize font-semibold px-4 flex  flex-col rounded-[50px] items-center justify-center bg-white text-[#A18830]">
-                      <span>Nnadi Johnson</span>
+                      <span>Maxwell Okperi</span>
                       <span className="text-xs italic">
                         Chief Executive Officer
                       </span>
@@ -59,9 +59,9 @@ const Flipcard = () => {
                 />
                 <div className="w-full flex items-center justify-center">
                   <button className="absolute bottom-10 py-2 shadow-xl capitalize font-semibold px-4 flex  flex-col w-auto rounded-[50px] items-center justify-center bg-white text-[#A18830]">
-                    <span>Nnadi Johnson</span>
+                    <span>Hanim Windibiziri</span>
                     <span className="text-xs italic">
-                      Chief Executive Officer
+                      Executive Director / Founding Partner
                     </span>
                   </button>
                 </div>
@@ -76,9 +76,9 @@ const Flipcard = () => {
                   />
                   <div className="absolute -bottom-10 delay-500 duration-1000 group-hover:bottom-10 scale-0 group-hover:scale-125 text-white">
                     <button className=" py-2 shadow-xl capitalize font-semibold px-4 flex  flex-col rounded-[50px] items-center justify-center bg-white text-[#A18830]">
-                      <span>Nnadi Johnson</span>
+                      <span>Hanim Windibiziri</span>
                       <span className="text-xs italic">
-                        Chief Executive Officer
+                      Executive Director / Founding Partner
                       </span>
                     </button>
                   </div>
@@ -100,9 +100,9 @@ const Flipcard = () => {
                 />
                 <div className="w-full flex items-center justify-center">
                   <button className="absolute bottom-10 py-2 shadow-xl capitalize font-semibold px-4 flex  flex-col w-auto rounded-[50px] items-center justify-center bg-white text-[#A18830]">
-                    <span>Nnadi Johnson</span>
+                    <span>Jane Francis Odinka</span>
                     <span className="text-xs italic">
-                      Chief Executive Officer
+                      Front Desk Officer
                     </span>
                   </button>
                 </div>
@@ -117,9 +117,9 @@ const Flipcard = () => {
                   />
                   <div className="absolute -bottom-10 delay-500 duration-1000 group-hover:bottom-10 scale-0 group-hover:scale-125 text-white">
                     <button className=" py-2 shadow-xl capitalize font-semibold px-4 flex  flex-col rounded-[50px] items-center justify-center bg-white text-[#A18830]">
-                      <span>Nnadi Johnson</span>
+                      <span>Jane Francis Odinka</span>
                       <span className="text-xs italic">
-                        Chief Executive Officer
+                        Front Desk Officer
                       </span>
                     </button>
                   </div>

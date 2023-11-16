@@ -50,7 +50,7 @@ const News = () => {
             slidesPerView: 3,
           },
         }}
-        className="mySwiper3 news-slider"
+        className="mySwiper3 px-5 news-slider"
       >
         <SwiperSlide className="news-slider__wrp swiper-wrapper">
           <div className="news-slider__item swiper-slide">

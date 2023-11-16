@@ -29,7 +29,7 @@ const page = () => {
               />
               <div className="w-full flex items-center justify-center">
                 <button className="absolute bottom-10 py-2 shadow-xl capitalize font-semibold px-4 flex  flex-col w-auto rounded-[50px] items-center justify-center bg-white text-[#A18830]">
-                  <span>Nnadi Johnson</span>
+                  <span>Maxwell Okperi</span>
                   <span className="text-xs italic">
                     Chief Executive Officer
                   </span>
@@ -46,7 +46,7 @@ const page = () => {
                 />
                 <div className="absolute -bottom-10 delay-500 duration-1000 group-hover:bottom-10 scale-0 group-hover:scale-125 text-white">
                   <button className=" py-2 shadow-xl capitalize font-semibold px-4 flex  flex-col rounded-[50px] items-center justify-center bg-white text-[#A18830]">
-                    <span>Nnadi Johnson</span>
+                    <span>Maxwell Okperi</span>
                     <span className="text-xs italic">
                       Chief Executive Officer
                     </span>
@@ -70,9 +70,9 @@ const page = () => {
               />
               <div className="w-full flex items-center justify-center">
                 <button className="absolute bottom-10 py-2 shadow-xl capitalize font-semibold px-4 flex  flex-col w-auto rounded-[50px] items-center justify-center bg-white text-[#A18830]">
-                  <span>Nnadi Johnson</span>
+                  <span>Hanim windizibiri</span>
                   <span className="text-xs italic">
-                    Chief Executive Officer
+                    Executive Director / Founding Partner
                   </span>
                 </button>
               </div>
@@ -87,9 +87,9 @@ const page = () => {
                 />
                 <div className="absolute -bottom-10 delay-500 duration-1000 group-hover:bottom-10 scale-0 group-hover:scale-125 text-white">
                   <button className=" py-2 shadow-xl capitalize font-semibold px-4 flex  flex-col rounded-[50px] items-center justify-center bg-white text-[#A18830]">
-                    <span>Nnadi Johnson</span>
+                    <span>Hanim windizibiri</span>
                     <span className="text-xs italic">
-                      Chief Executive Officer
+                    Executive Director / Founding Partner
                     </span>
                   </button>
                 </div>
@@ -111,9 +111,9 @@ const page = () => {
               />
               <div className="w-full flex items-center justify-center">
                 <button className="absolute bottom-10 py-2 shadow-xl capitalize font-semibold px-4 flex  flex-col w-auto rounded-[50px] items-center justify-center bg-white text-[#A18830]">
-                  <span>Nnadi Johnson</span>
+                  <span>Jane Francis Odinka</span>
                   <span className="text-xs italic">
-                    Chief Executive Officer
+                    Front-Desk Officer
                   </span>
                 </button>
               </div>
@@ -128,10 +128,10 @@ const page = () => {
                 />
                 <div className="absolute -bottom-10 delay-500 duration-1000 group-hover:bottom-10 scale-0 group-hover:scale-125 text-white">
                   <button className=" py-2 shadow-xl capitalize font-semibold px-4 flex  flex-col rounded-[50px] items-center justify-center bg-white text-[#A18830]">
-                    <span>Nnadi Johnson</span>
-                    <span className="text-xs italic">
-                      Chief Executive Officer
-                    </span>
+                  <span>Jane Francis Odinka</span>
+                  <span className="text-xs italic">
+                    Front-Desk Officer
+                  </span>
                   </button>
                 </div>
               </div>
@@ -154,9 +154,9 @@ const page = () => {
               />
               <div className="w-full flex items-center justify-center">
                 <button className="absolute bottom-10 py-2 shadow-xl capitalize font-semibold px-4 flex  flex-col w-auto rounded-[50px] items-center justify-center bg-white text-[#A18830]">
-                  <span>Nnadi Johnson</span>
+                  <span>Angel Fortune Ogbeta</span>
                   <span className="text-xs italic">
-                    Chief Executive Officer
+                    Content Writer
                   </span>
                 </button>
               </div>
@@ -171,10 +171,10 @@ const page = () => {
                 />
                 <div className="absolute -bottom-10 delay-500 duration-1000 group-hover:bottom-10 scale-0 group-hover:scale-125 text-white">
                   <button className=" py-2 shadow-xl capitalize font-semibold px-4 flex  flex-col rounded-[50px] items-center justify-center bg-white text-[#A18830]">
-                    <span>Nnadi Johnson</span>
-                    <span className="text-xs italic">
-                      Chief Executive Officer
-                    </span>
+                  <span>Angel Fortune Ogbeta</span>
+                  <span className="text-xs italic">
+                    Content Writer
+                  </span>
                   </button>
                 </div>
               </div>
@@ -195,9 +195,9 @@ const page = () => {
               />
               <div className="w-full flex items-center justify-center">
                 <button className="absolute bottom-10 py-2 shadow-xl capitalize font-semibold px-4 flex  flex-col w-auto rounded-[50px] items-center justify-center bg-white text-[#A18830]">
-                  <span>Nnadi Johnson</span>
+                  <span>Fantis Skari</span>
                   <span className="text-xs italic">
-                    Chief Executive Officer
+                    Head. Sales and Marketing
                   </span>
                 </button>
               </div>
@@ -212,10 +212,10 @@ const page = () => {
                 />
                 <div className="absolute -bottom-10 delay-500 duration-1000 group-hover:bottom-10 scale-0 group-hover:scale-125 text-white">
                   <button className=" py-2 shadow-xl capitalize font-semibold px-4 flex  flex-col rounded-[50px] items-center justify-center bg-white text-[#A18830]">
-                    <span>Nnadi Johnson</span>
-                    <span className="text-xs italic">
-                      Chief Executive Officer
-                    </span>
+                  <span>Fantis Skari</span>
+                  <span className="text-xs italic">
+                    Head. Sales and Marketing
+                  </span>
                   </button>
                 </div>
               </div>
@@ -236,9 +236,9 @@ const page = () => {
               />
               <div className="w-full flex items-center justify-center">
                 <button className="absolute bottom-10 py-2 shadow-xl capitalize font-semibold px-4 flex  flex-col w-auto rounded-[50px] items-center justify-center bg-white text-[#A18830]">
-                  <span>Nnadi Johnson</span>
+                  <span>Grace Ichaba</span>
                   <span className="text-xs italic">
-                    Chief Executive Officer
+                    Head Engineering Construction
                   </span>
                 </button>
               </div>
@@ -253,10 +253,10 @@ const page = () => {
                 />
                 <div className="absolute -bottom-10 delay-500 duration-1000 group-hover:bottom-10 scale-0 group-hover:scale-125 text-white">
                   <button className=" py-2 shadow-xl capitalize font-semibold px-4 flex  flex-col rounded-[50px] items-center justify-center bg-white text-[#A18830]">
-                    <span>Nnadi Johnson</span>
-                    <span className="text-xs italic">
-                      Chief Executive Officer
-                    </span>
+                  <span>Grace Ichaba</span>
+                  <span className="text-xs italic">
+                    Head Engineering Construction
+                  </span>
                   </button>
                 </div>
               </div>
